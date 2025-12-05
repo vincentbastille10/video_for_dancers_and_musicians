@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://video-for-dancers-and-musicians.onrender.com/</loc>
+
+    <!-- Image principale -->
+    <image:image>
+      <image:loc>
+        https://video-for-dancers-and-musicians.onrender.com/Capture%20d%E2%80%99e%CC%81cran%202025-12-05.png
+      </image:loc>
+      <image:title>Projections vidéo pour spectacles de danse – Spectra Media</image:title>
+    </image:image>
+
+    <!-- Hero SVG -->
+    <image:image>
+      <image:loc>
+        https://video-for-dancers-and-musicians.onrender.com/static/img/hero-projection.svg
+      </image:loc>
+      <image:title>Créations visuelles et scénographie – Spectra Media</image:title>
+    </image:image>
+
+    <!-- Favicon (optionnel) -->
+    <image:image>
+      <image:loc>
+        https://video-for-dancers-and-musicians.onrender.com/static/img/favicon-spectra.svg
+      </image:loc>
+      <image:title>Icone Spectra Media</image:title>
+    </image:image>
+
+  </url>
+
+</urlset>
