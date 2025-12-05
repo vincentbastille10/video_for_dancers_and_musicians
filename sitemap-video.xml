@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <url>
+    <loc>https://video-for-dancers-and-musicians.onrender.com/</loc>
+
+    <video:video>
+      <video:thumbnail_loc>
+        https://i.ytimg.com/vi/E3VXXRQdilk/hqdefault.jpg
+      </video:thumbnail_loc>
+
+      <video:title>
+        Exemple de projections vidéo pour danse et concerts – Spectra Media
+      </video:title>
+
+      <video:description>
+        Exemple de création visuelle projetée en direct, conçue pour accompagner un spectacle de danse ou un concert.
+      </video:description>
+
+      <video:player_loc>
+        https://www.youtube.com/embed/E3VXXRQdilk
+      </video:player_loc>
+
+      <video:publication_date>2024-12-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+
+  </url>
+
+</urlset>
