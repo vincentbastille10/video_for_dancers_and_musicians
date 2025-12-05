@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://video-for-dancers-and-musicians.example/sitemap.xml
+Sitemap: https://video-for-dancers-and-musicians.onrender.com/sitemap.xml
